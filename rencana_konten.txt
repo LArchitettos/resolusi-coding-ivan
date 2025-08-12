@@ -8,6 +8,6 @@ Rencana Konten Ivan
 - Mengenai PHP Framework
       + Laravel
 - Fundamental Data Structure
-- Tips and Trick Interview
 - Materi Tentang Python
 - Materi tentang CyberSecurity
+- Menambahkan Konten Untuk Tips and Trick Intervire dalam Dunia IT.

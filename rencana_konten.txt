@@ -3,6 +3,9 @@ Rencana Konten Ivan
 - Mmebuat Video Mengenai JavaScript
   1. Mengenai ES6.
   2. Framework JS.
+      + Vue Js
 - Mengenai PHP Framework
+      + Laravel
 - Fundamental Data Structure
 - Tips and Trick Interview
+- Materi Tentang Python

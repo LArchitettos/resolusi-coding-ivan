@@ -1,5 +1,7 @@
 Rencana Konten Ivan
 
 - Mmebuat Video Mengenai JavaScript
+  1. Mengenai ES6.
+  2. Framework JS.
 - Mengenai PHP Framework
 - Tips and Trick Interview

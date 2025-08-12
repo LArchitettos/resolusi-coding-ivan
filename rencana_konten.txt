@@ -4,6 +4,7 @@ Rencana Konten Ivan
   1. Mengenai ES6.
   2. Framework JS.
       + Vue Js
+      + React JS
 - Mengenai PHP Framework
       + Laravel
 - Fundamental Data Structure

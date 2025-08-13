@@ -11,4 +11,4 @@ Rencana Konten Ivan
 - Materi Tentang Python
 - Materi tentang CyberSecurity
 - Menambahkan Konten Untuk Tips and Trick Intervire dalam Dunia IT.
-- Formal Languange and Automate Theory
+- Formal Languange and Automate Theory (Bagus Banget)
